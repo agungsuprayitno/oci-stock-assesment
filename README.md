@@ -4,10 +4,11 @@
 
 Rest API untuk melakukan perhitungan angsuran.
 
-disini saya hanya menggunakan hardcode variabel sebagai berikut:
-Plafon Rp 5.000.000
-Suku Bunga 8 persen pertahun
-Lama Pinjaman 6 bulan
+#### disini saya hanya menggunakan hardcode variabel sebagai berikut:
+
+- Plafon Rp 5.000.000
+- Suku Bunga 8 persen pertahun
+- Lama Pinjaman 6 bulan
 
 
 ## Requirements
